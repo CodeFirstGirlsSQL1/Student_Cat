@@ -1,3 +1,2 @@
 # Student_Cat
-
-# Practice & Homework Files
+Practice & Homework Files
